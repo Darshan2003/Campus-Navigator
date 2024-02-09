@@ -1,6 +1,6 @@
 # Campus Navigator
 
-Campus Navigator is a project that aims to provide a user-friendly navigation system for campuses. It helps users find their way around the campus by providing detaile direction for various locations within the campus.
+Campus Navigator is a project that aims to provide a user-friendly navigation system for campuses. It helps users find their way around the campus by providing detailed directions for various locations.
 
 This is just a small prototype of the actual project.
 
